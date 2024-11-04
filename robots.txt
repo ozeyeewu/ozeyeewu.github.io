@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozeyeewu.github.io/ZAT/sitemap_index.txt
+Sitemap: https://ozeyeewu.github.io/dBI/sitemap_index.txt
+Sitemap: https://ozeyeewu.github.io/kCB/sitemap_index.txt
+Sitemap: https://ozeyeewu.github.io/plt/sitemap_index.txt
